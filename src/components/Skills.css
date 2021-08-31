@@ -1,30 +1,34 @@
 .skills {
-    margin: var(--spacing-3) 0;
-}
-
-.skill {
+    margin:var(--spacing-3) 0;
+  }
+  .skill {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
+  }
+  .interests {
+    display: none;
+    align-items: center;  
+  }
+  .interests svg {
+    margin:var(--spacing-1);
+  }
 
-.circle {
+  .circle {
     display: inline-block;
-    width: 20px;
+    width:20px;
     height: 20px;
     margin-right: 8px;
     border-radius: 50%;
-    background-color: var(--circle-color);
-}
-
-.circle-plain {
-    background-color: var(--circle-color-plain);
-}
-
-.interests {
-    align-items: center;
-}
-
-.interests svg {
-    margin: var(--spacing-1);
-}
+    background:var(--circle-color);
+  }
+  .circle-plain {  
+    background:var(--circle-color-plain);
+  }
+  
+  .dark .circle {
+    background: var(--dark-circle-color);
+  }
+  .dark .circle-plain {
+    background: var(--dark-circle-color-plain);
+  }
