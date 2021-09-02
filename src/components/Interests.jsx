@@ -12,7 +12,6 @@ function Interests() {
                 <li>Informatique</li>
                 <li>Littérature</li>
                 <li>Langues Vivantes</li>
-                <li>Musique</li>
             </ul>
             <div className="interests">
             <ComputerIcon style={{ fontSize: 40 }}/>

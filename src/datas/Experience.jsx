@@ -8,11 +8,11 @@ export const dataExperiences = [
         missions: [
             {
                 id:1,
-                title:"Travail d'autonomie sous forme de Quêtes sur la plateforme Odyssey",
+                title:"Travail d'autonomie sous forme de Quêtes sur plateforme Odyssey",
             },
             {
                 id:2,
-                title:"Réalisation de projet client.",
+                title:"Réalisation projet client.",
             }, 
         ],
 
@@ -26,11 +26,11 @@ export const dataExperiences = [
         missions: [
             {
                 id:1,
-                title:"mission 1",
+                title:"Observation développement (RPG).",
             },
             {
                 id:2,
-                title:"mission 2",
+                title:"Observation travail des chargés de qualités.",
             }, 
         ],
     }
