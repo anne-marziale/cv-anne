@@ -14,7 +14,7 @@ function User() {
       <p className="user__profession">Développeur Web</p>
       <div className="user__infos">
         <p className="user__info">
-          <HomeIcon /> 121 rue villebois mareuil
+          <HomeIcon /> 121 rue Villebois Mareuil
         </p>
         <p className="user__info">
           <PhoneIcon /> <a href="tel:+33662960130">0662960130</a>
@@ -23,10 +23,10 @@ function User() {
           <MailIcon /> <a href="mailto:annemarziale@hotmail.com">annemarziale@hotmail.com</a>
         </p>
         <p className="user__info">
-          <EventIcon /> Date de naissance: 29 septembre 1998
+          <EventIcon /> Date de Naissance : 29 septembre 1998
         </p>
         <p className="user__info">
-          <LocationOnIcon /> Lieu de naissance: Vitry Sur Seine
+          <LocationOnIcon /> Lieu de Naissance: Vitry Sur Seine
         </p>
       </div>
     </div>

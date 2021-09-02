@@ -5,7 +5,7 @@ function Profil() {
         <div className="profil mb5">
             <h2 className="h2">Profil</h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla vel est molestiae quasi quisquam sint minima numquam ipsam distinctio doloremque nesciunt delectus illum, molestias, dignissimos minus dolores nisi soluta vero!
+            Je suis en recherche d'une alternance en tant que développeuse web et mobile d'une durée d'un an. J'ai hâte de pouvoir mettre en pratique les connaissances que j'ai acquises durant ma formation à la Wild Code School.
             </p>
         </div>
     )
