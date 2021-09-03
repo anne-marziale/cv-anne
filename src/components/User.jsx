@@ -4,7 +4,8 @@ import HomeIcon from "@material-ui/icons/Home"
 import PhoneIcon from "@material-ui/icons/Phone"
 import MailIcon from "@material-ui/icons/Mail"
 import EventIcon from "@material-ui/icons/Event"
-import LocationOnIcon from "@material-ui/icons/LocationOn"
+import LinkedInIcon from '@material-ui/icons/LinkedIn';
+import GitHubIcon from '@material-ui/icons/GitHub';
 
 function User() {
   return (
@@ -26,7 +27,10 @@ function User() {
           <EventIcon /> Date de Naissance : 29 septembre 1998
         </p>
         <p className="user__info">
-          <LocationOnIcon /> Lieu de Naissance: Vitry Sur Seine
+          <LinkedInIcon /> <a href="https://www.linkedin.com/feed/?trk=FR-SEM_google-adwords_brand-ghp">Linkedin : Anne Marziale </a>
+        </p>
+        <p className="user__info">
+          <GitHubIcon /> <a href="https://github.com/anne-marziale">Github : anne-marziale </a>
         </p>
       </div>
     </div>

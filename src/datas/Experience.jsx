@@ -1,15 +1,5 @@
 export const dataExperiences = [
-    {
-        id:1,
-        title:"Formation Développeur Web",
-        date:"01/06/2021 - 05/11/2021",
-        location:"Remote à la Wild Code School",
-        text:"Formation de développeur web et mobile Full Stack. Découverte du développement web sous forme de quêtes gérées en autonomie, de gestion de projets en équipe et de participation à des hackathons.",
-        missions: [
-            
-        ],
 
-    },
     {
         id:2,
         title:"Stage d'observation",

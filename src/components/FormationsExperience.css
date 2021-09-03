@@ -13,6 +13,10 @@
   text-align : justify;
 }
 
+.grid__missions {
+  text-align: left;
+}
+
 .grid__location {
   font-weight: 300;
   color:var(--date-color);
