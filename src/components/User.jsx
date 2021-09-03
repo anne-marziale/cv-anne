@@ -14,7 +14,7 @@ function User() {
       <p className="user__profession">Développeur Web</p>
       <div className="user__infos">
         <p className="user__info">
-          <HomeIcon /> 121 rue Villebois Mareuil
+          <HomeIcon /> 121 rue Villebois Mareuil 94190 Villeneuve Saint-Georges
         </p>
         <p className="user__info">
           <PhoneIcon /> <a href="tel:+33662960130">0662960130</a>

@@ -6,14 +6,7 @@ export const dataExperiences = [
         location:"Remote à la Wild Code School",
         text:"Formation de développeur web et mobile Full Stack. Découverte du développement web sous forme de quêtes gérées en autonomie, de gestion de projets en équipe et de participation à des hackathons.",
         missions: [
-            {
-                id:1,
-                title:"Travail d'autonomie sous forme de Quêtes sur plateforme Odyssey",
-            },
-            {
-                id:2,
-                title:"Réalisation projet client.",
-            }, 
+            
         ],
 
     },

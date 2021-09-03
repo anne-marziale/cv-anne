@@ -8,8 +8,8 @@ function Skills() {
         <div className="skills">
             <h2 className="h2">Compétences</h2>
             < Skill title="HTML" rating="3"/>
-            < Skill title="CSS" rating="4"/>
-            < Skill title="JAVASCRIPT" rating="2"/>
+            < Skill title="CSS" rating="3"/>
+            < Skill title="JAVASCRIPT" rating="3"/>
             < Skill title="REACT" rating="4"/>
             < Skill title="NODE" rating="2"/>
         </div>
