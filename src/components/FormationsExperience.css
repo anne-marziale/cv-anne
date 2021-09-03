@@ -6,8 +6,13 @@
   font-weight: 500;
 }
 .grid__title {
-  margin-bottom: 0;
+  margin-bottom: 1.5;
 }
+
+.grid__text {
+  text-align : justify;
+}
+
 .grid__location {
   font-weight: 300;
   color:var(--date-color);

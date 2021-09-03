@@ -86,6 +86,10 @@ p {
   margin-bottom: var(--spacing-2);
 }
 
+.text-presentation {
+  text-align: justify;
+}
+
 ul {
   padding-left:1.3rem;
 }
