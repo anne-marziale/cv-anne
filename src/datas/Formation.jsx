@@ -35,19 +35,19 @@ const dataFormations = [
         missions: [
             {
                 id:1,
-                title:"Réalisation Projet numéro 1 CV en langage HTML, CSS et JavaScript en 2 semaines. ",
+                title:"Réalisation Projet numéro 1, création d'un site web sous forme de CV responsive d'un personnage fictif en langage HTML/CSS et JavaScript en 3 semaines.",
             },
             {
                 id:2,
-                title:"Réalisation Projet numéro 2 site web d'hebergement de musique en ligne en langage REACT, CSS et Express en 5 semaines.",
+                title:"Réalisation Projet numéro 2, création d'un site web d'hébergement de musique en langage ReactJs, CSS et Express en 5 semaines.",
             }, 
             {
                 id:3,
-                title:"Réalisation Projet numéro 3 site web vitrine de la région Sud en ligne en langage REACT, CSS et Express en 2 mois.",
+                title:"Réalisation Projet numéro 3, création d'un site vitrine à destination professionnel afin de mettre en avant les réalisateur de la région-sud. Utilisation de ReactJs, CSS, MySQL et de Express.",
             }, 
             {
                 id:4,
-                title:"Participation à un Hackathon de 24heures en langage REACT et CSS.",
+                title:"Participation à un Hackathon dont l'objectif était de réaliser un site web en équipe en moins de 24heures en langage ReactJs et CSS.",
             },
         ],
 
