@@ -10,7 +10,7 @@ import GitHubIcon from '@material-ui/icons/GitHub';
 function User() {
   return (
     <div className="user">
-      <img src="./images/avatar.jpg" className="user__avatar" alt="John Doe" />
+      <img src="./images/photo1.jpeg" className="user__avatar" alt="Anne Marziale" />
       <h1 className="user__name">Anne Marziale</h1>
       <p className="user__profession">Développeur Web</p>
       <div className="user__infos">
