@@ -18,12 +18,6 @@ function User() {
           <HomeIcon /> 121 rue Villebois Mareuil 94190 Villeneuve Saint-Georges
         </p>
         <p className="user__info">
-          <PhoneIcon /> <a href="tel:+33662960130">0662960130</a>
-        </p>
-        <p className="user__info">
-          <MailIcon /> <a href="mailto:annemarziale@hotmail.com">annemarziale@hotmail.com</a>
-        </p>
-        <p className="user__info">
           <EventIcon /> Date de Naissance : 29 septembre 1998
         </p>
         <p className="user__info">
